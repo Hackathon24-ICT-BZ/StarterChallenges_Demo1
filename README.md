@@ -1,8 +1,8 @@
 # StarterChallenges_Demo1
 Demo Repo für Starter Challenges
 ## Bitte untenstehende Angaben ausfüllen:
-- Bereich: jjjdk
-- Projekt-Titel: ffdfdf
+- Bereich:
+- Projekt-Titel:
 - Projekt-Beschreibung:
 - Benötigte Hardware:
 - Eingesetzte Technologien (Programmiersprache, Frameworks etc.):
