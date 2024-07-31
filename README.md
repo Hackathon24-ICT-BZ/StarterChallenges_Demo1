@@ -1,7 +1,7 @@
 # StarterChallenges_Demo1
 Demo Repo für Starter Challenges
 ## Bitte untenstehende Angaben ausfüllen:
-- Bereich: Software-Entwicklung
+- Bereich: Software-Entwicklung (Web)
 - Projekt-Titel: Demoprojekt
 - Projekt-Beschreibung: Das ist ein Demoprojekt
 - Benötigte Hardware: keine
