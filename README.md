@@ -1,12 +1,12 @@
 # StarterChallenges_Demo1
 Demo Repo für Starter Challenges
 ## Bitte untenstehende Angaben ausfüllen:
-- Bereich:
-- Projekt-Titel:
-- Projekt-Beschreibung:
-- Benötigte Hardware:
-- Eingesetzte Technologien (Programmiersprache, Frameworks etc.):
-- Max. Anzahl Teammitglieder:
-- Zuständigkeit:
-- E-Mail:
-- Mobile:
+- Bereich: Software-Entwicklung
+- Projekt-Titel: Demoprojekt
+- Projekt-Beschreibung: Das ist ein Demoprojekt
+- Benötigte Hardware: keine
+- Eingesetzte Technologien (Programmiersprache, Frameworks etc.): Vue.js, Phython Django
+- Max. Anzahl Teammitglieder: 3
+- Zuständigkeit: hier Zuständigkeit
+- E-Mail: hier E-Mail
+- Mobile: hier Telefonnummer
