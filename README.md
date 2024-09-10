@@ -8,5 +8,5 @@ Demo Repo für Starter Challenges
 - Eingesetzte Technologien (Programmiersprache, Frameworks etc.): Vue.js, Phython Django
 - Max. Anzahl Teammitglieder: 3
 - Zuständigkeit: hier Zuständigkeit
-- E-Mail: hier E-Mail
+- E-Mail: hier E-Mail-Adresse
 - Mobile: hier Telefonnummer
