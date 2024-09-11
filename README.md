@@ -7,6 +7,6 @@ Demo Repo für Starter Challenges
 - Benötigte Hardware: keine
 - Eingesetzte Technologien (Programmiersprache, Frameworks etc.): Vue.js, Phython Django
 - Max. Anzahl Teammitglieder: 3
-- Zuständigkeit: hier Zuständigkeit
+- Zuständigkeit: hier Name und Vorname der Ansprechsperson
 - E-Mail: hier E-Mail-Adresse
-- Mobile: hier Telefonnummer
+- Mobile: hier Telefonnummer (optional)
