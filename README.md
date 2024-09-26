@@ -2,7 +2,7 @@
 Demo Repo für Starter Challenges
 ## Bitte untenstehende Angaben ausfüllen (Demo-Angaben):
 - Bereich: Software-Entwicklung (Web)
-- Projekt-Titel: Demoprojekt
+- Projekt-Titel: Demoprojekt (Web)
 - Projekt-Beschreibung: Das ist ein cooles Demoprojekt
 - Benötigte Hardware: keine
 - Eingesetzte Technologien (Programmiersprache, Frameworks etc.): Vue.js, Phython Django
