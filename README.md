@@ -1,5 +1,5 @@
 # StarterChallenges_Demo1
-Demo Repo für Starter Challenges
+Demo Repo für Starter Challenges - Happy
 ## Bitte untenstehende Angaben ausfüllen (Demo-Angaben):
 - Bereich: Software-Entwicklung (Web)
 - Projekt-Titel: Demoprojekt (Web)
